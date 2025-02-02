@@ -3,7 +3,7 @@ public class Main {
         // Allocating memory dynamically
         String data = new String("Hello, Java!");
 
-        // Garbage collector automatically handles unused memory
+        // Garbage Collector automatically handles unused memory
         processData(data);
 
         // Data is still accessible after being passed to a method
