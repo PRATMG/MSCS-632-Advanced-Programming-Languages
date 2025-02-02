@@ -9,9 +9,7 @@ This repository contains the second assignment for the Advanced Programming Lang
 
 ## Programs
 - The programs for each section are organized into their respective folders. 
-- Refer to each language's `README.md` for explanations of errors and behavior.
 
 ------
 ## GitHub Repository Link
-[Include the link here once your repository is created.
 (https://github.com/PRATMG/MSCS-632-Advanced-Programming-Languages/tree/main/Assignment%202%3A%20Syntax%2C%20Semantics%2C%20and%20Memory%20Management)
